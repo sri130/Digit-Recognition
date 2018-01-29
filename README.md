@@ -1,5 +1,5 @@
 # Digit-Recognition
-This model correctly classifies the handwritten digits based on the pixel values given as features by using SVM.
+This model classifies the handwritten digits based on the pixel values given as features by using SVM with 95.6 accuracy.
 
 
 A classic problem in the field of pattern recognition is that of handwritten digit recognition. 
